@@ -1,3 +1,4 @@
 # food-api
-# food-api
-# food-api
+
+# Install Image Magick
+# Configure PaperClip

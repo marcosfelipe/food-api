@@ -13,6 +13,11 @@ gem 'jbuilder'
 
 gem "paperclip", "~> 4.2"
 
+group :development do
+  # to access control allow origin
+  gem 'rack-cors', '0.3.0'
+end
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
