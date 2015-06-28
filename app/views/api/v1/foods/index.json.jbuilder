@@ -1,1 +1,1 @@
-json.foods @foods, :id, :name, :description, :avatar_url
+json.foods @foods, :id, :name, :price, :description, :avatar_url
