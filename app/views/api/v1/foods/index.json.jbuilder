@@ -1,0 +1,1 @@
+json.foods @foods, :id, :name, :description, :avatar_url

@@ -4,7 +4,9 @@ Rails.application.routes.draw do
       resources :stadiums do
         resources :restaurants
       end
-      resources :restaurants
+      resources :restaurants do
+        resources :foods
+      end
     end
   end
 end
